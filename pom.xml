@@ -13,7 +13,7 @@
         <!-- mysql版本 -->
         <mysql.version>5.1.47</mysql.version>
         <!-- lucene版本 -->
-        <lucene.version>4.10.3</lucene.version>
+        <lucene.version>8.3.0</lucene.version>
         <!-- ik分词器版本 -->
         <ik.version>2012_u6</ik.version>
     </properties>
