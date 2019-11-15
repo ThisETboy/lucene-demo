@@ -25,7 +25,7 @@ import java.io.File;
  */
 public class App2_search_index {
     //索引的位置
-    private static final String PATH = "D:\\code\\120day\\day02\\index";
+    private static final String PATH = "D:\\library\\index";
 
     /**
      * 搜索
