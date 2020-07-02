@@ -11,7 +11,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <!-- mysql版本 -->
-        <mysql.version>5.1.47</mysql.version>
+        <mysql.version>8.0.16</mysql.version>
         <!-- lucene版本 -->
         <lucene.version>4.10.3</lucene.version>
         <!-- ik分词器版本 -->
